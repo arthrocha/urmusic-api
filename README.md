@@ -27,8 +27,14 @@ $ yarn dev or npm run dev
 # The server will start on port:3333
 ```
 
+### How to use
+```bash
+$ get http://localhost:3333/convert-mp3/{songname}
+```
+
 ### 🛠 Technologies
 
 The following technologies were used in the project
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
+- [puppeteer](https://pptr.dev/)
