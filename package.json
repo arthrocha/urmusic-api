@@ -11,9 +11,12 @@
     "cloudinary": "^1.30.0",
     "cors": "^2.8.5",
     "express": "^4.18.1",
+    "express-rate-limit": "^6.4.0",
     "js-base64": "^3.7.2",
     "nodemon": "^2.0.16",
     "puppeteer": "^14.1.1",
+    "rate-limiter-flexible": "^2.3.7",
+    "redis": "^4.1.0",
     "youtube-mp3-downloader": "^0.7.10"
   }
 }
