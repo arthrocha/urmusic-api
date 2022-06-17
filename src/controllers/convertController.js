@@ -1,4 +1,3 @@
-const fs = require("fs")
 const youtubeURL = require('../services/getYoutubeUrlService')
 const convertService = require('../services/convertService')
 const path = require("path")
